@@ -1,0 +1,6 @@
+﻿  Test.cpp
+c:\users\drozimovschii\documents\visual studio 2017\projects\adaptivehuffman\adaptivehuffman\test.cpp(21): warning C4018: '<': signed/unsigned mismatch
+c:\users\drozimovschii\documents\visual studio 2017\projects\adaptivehuffman\adaptivehuffman\test.cpp(31): warning C4018: '<': signed/unsigned mismatch
+c:\users\drozimovschii\documents\visual studio 2017\projects\adaptivehuffman\adaptivehuffman\test.cpp(88): warning C4018: '<': signed/unsigned mismatch
+  AdaptiveHuffman.vcxproj -> C:\Users\drozimovschii\documents\visual studio 2017\Projects\AdaptiveHuffman\Debug\AdaptiveHuffman.exe
+  AdaptiveHuffman.vcxproj -> C:\Users\drozimovschii\documents\visual studio 2017\Projects\AdaptiveHuffman\Debug\AdaptiveHuffman.pdb (Partial PDB)
